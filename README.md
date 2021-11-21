@@ -1,2 +1,2 @@
-# lisandrajunika.github.io
+# lisandrajunika
 Tugas project
